@@ -10,6 +10,7 @@ I'm Eddie! 👋 I build happy, inclusive, high-performing teams. Together we bui
 ## /now
 
 - 🔭 Leading [Litmus](https://litmus.com/) product engineering
+  - 🛠️ Come [work with me](https://litmus.engineering/careers)
 - 🌱 Learning [zig](https://ziglang.org)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs?username=defeated&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2)
