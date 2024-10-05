@@ -1,16 +1,15 @@
-## Hi there 👋
+## ahoy there
 
-<!--
-**defeated/defeated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eddie! 👋 I build happy, inclusive, high-performing teams. Together we build products people love.
 
-Here are some ideas to get you started:
+- 😄 Pronouns: he/they
+- 💬 Ask me about [coffee roasting](https://ahoy.coffee)
+- 📫 How to reach me: https://eddiecianci.info
+- ⚡ Fun fact: the universe is simultaneously expanding and contracting 🤯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## /now
+
+- 🔭 Leading [Litmus](https://litmus.com/) product engineering
+- 🌱 Learning [zig](https://ziglang.org)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs?username=defeated&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2)
